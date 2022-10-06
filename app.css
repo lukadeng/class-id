@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(233, 248, 248);
+}
+
+#one {
+  color: rgb(136, 156, 139);
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+#two {
+  color: rgb(47, 22, 112);
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+#main {
+  color: rgb(5, 73, 16);
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+ul li {
+  list-style-type: none;
+}
+.mdnlink {
+  text-decoration: none;
+}
+.luka {
+  text-decoration: none;
+}
+.deng {
+  text-decoration: none;
+}
+.JavaScript-line {
+  text-decoration: none;
+}
+.main-class li:nth-child(even) {
+  color: red;
+}
+.main-tag li:nth-child(odd) {
+  color: blue;
+}
+.navigation a:hover {
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+}
+.navigation a:active {
+  color: gray;
+}
